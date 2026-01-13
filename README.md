@@ -16,9 +16,3 @@ It explores how visual feedback can communicate accessibility states.
 Press `S` to switch shapes and `R` to reset the canvas.
 
 ---
-
-## References
-
-Connect your in-text citations to the reference list along with additional sources that informed your design but were not directly cited. Provide all citations using the ACM reference format.
-
----
